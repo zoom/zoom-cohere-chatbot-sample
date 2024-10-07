@@ -96,7 +96,6 @@ Our codebase includes several important functions that drive the chatbot's funct
 
 These functions work together to create a seamless flow from receiving a user message in Zoom, processing it with Cohere's AI, and sending the response back to the user in Zoom Team Chat.
 
-This README provides a comprehensive overview of the Zoom-Cohere-Chatbot project, including setup instructions, usage guidelines, and explanations of key functions.
 
 ## License
 
